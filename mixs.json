@@ -1,0 +1,15 @@
+[
+  {
+    "title":"Северное сияние",
+    "item1": {
+                "item": "this.collectionTabacos[0]";
+                "balance": 50
+                "amount": 6;
+              },
+    "item2": {
+                "item": "this.collectionTabacos[1]";
+                "balance": 50
+                "amount": 4;
+              }
+  }
+]
