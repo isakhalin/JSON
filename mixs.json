@@ -2,14 +2,27 @@
   {
     "title":"Северное сияние",
     "item1": {
-                "item": "this.collectionTabacos[0]";
-                "balance": 50
-                "amount": 6;
+                "item": "this.collectionTabacos[0]",
+                "balance": 50,
+                "amount": 6
               },
     "item2": {
-                "item": "this.collectionTabacos[1]";
-                "balance": 50
-                "amount": 4;
+                "item": "this.collectionTabacos[1]",
+                "balance": 50,
+                "amount": 4
+              }
+  },
+  {
+    "title":"Тропический туман",
+    "item1": {
+                "item": "this.collectionTabacos[0]",
+                "balance": 40,
+                "amount": 3
+              },
+    "item2": {
+                "item": "this.collectionTabacos[1]",
+                "balance": 60,
+                "amount": 7
               }
   }
 ]
