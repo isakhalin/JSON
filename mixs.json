@@ -2,12 +2,12 @@
   {
     "title":"Северное сияние",
     "item1": {
-                "item": "this.getObjTabaco(1253252383516)",
+                "item": "getObjTabaco(1253252383516)",
                 "balance": 50,
                 "amount": 6
               },
     "item2": {
-                "item": "this.getObjTabaco(1253252383517)",
+                "item": "getObjTabaco(1253252383517)",
                 "balance": 50,
                 "amount": 4
               }
@@ -15,12 +15,12 @@
   {
     "title":"Тропический туман",
     "item1": {
-                "item": "this.getObjTabaco(1253252383516)",
+                "item": "getObjTabaco(1253252383516)",
                 "balance": 40,
                 "amount": 3
               },
     "item2": {
-                "item": "this.getObjTabaco(1253252383517)",
+                "item": "getObjTabaco(1253252383517)",
                 "balance": 60,
                 "amount": 7
               }
