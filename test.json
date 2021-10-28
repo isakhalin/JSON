@@ -1,22 +1,18 @@
-[{
-  "id": 1253252383516,
-  "originalName": "Cosmo Flower",
-  "typeOfTabaco": "Tabaco",
-  "brand": "Dark Side",
-  "testy": "Ягодный микс винограда и цветов",
-  "strong": "Medium",
-  "ratestrong": 10,
-  "value": 80,
-  "img": "img/ds_cosmoflower.jpg"
-},
-{
-  "id": 1253252383516,
-  "originalName": "Cosmo Flower",
-  "typeOfTabaco": "Tabaco",
-  "brand": "Dark Side",
-  "testy": "Ягодный микс винограда и цветов",
-  "strong": "Medium",
-  "ratestrong": 10,
-  "value": 80,
-  "img": "img/ds_cosmoflower.jpg"
-}]
+[
+  {
+    "Id": "b8892913-a3be-4ec5-ac09-ee24fd6307b2",
+    "Name": "Mod1",
+    "Dependency": []
+  },
+  {
+    "Id": "05be1efd-1f66-49fa-8b7c-82704121ce42",
+    "Name": "Mod2",
+    "Dependency": [
+      {
+        "Id": "b8892913-a3be-4ec5-ac09-ee24fd6307b2",
+        "Name": "Mod1",
+        "Dependency": []
+      }
+    ]
+  }
+]
