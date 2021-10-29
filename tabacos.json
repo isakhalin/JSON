@@ -67,6 +67,17 @@
     },
     {
         "id": 9527183178,
+        "originalName": "Blackcurrant",
+        "typeOfTabaco": "Табак",
+        "brand": "Dark Side",
+        "testy": "Варенье из черной смородины",
+        "strong": "Rare",
+        "ratestrong": 10,
+        "value": 100,
+        "img": "img/ds_blackcurrant.jpg"
+    },
+    {
+        "id": 9564176478,
         "originalName": "",
         "typeOfTabaco": "Табак",
         "brand": "Dark Side",
