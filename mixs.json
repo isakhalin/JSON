@@ -1,26 +1,49 @@
 [
   {
-    "title":"Северное сияние",
+    "title":"Вишневая кола",
     "item1": {
-                "item": 1253252383516,
-                "balance": 50,
+                "item": 1275134564,
+                "Name": "Code Cherry",
+                "balance": 70,
                 "amount": 6
               },
     "item2": {
-                "item": 1253252383517,
-                "balance": 50,
+                "item": 1765131468,
+                "Name": "Cola",
+                "balance": 30,
                 "amount": 4
+              }
+  },
+  {
+    "title":"Red Mango Cosmo Alert",
+    "item1": {
+                "item": 1253286564,
+                "Name": "Red Alert",
+                "balance": 50,
+                "amount": 5
+              },
+    "item2": {
+                "item": 1253256456,
+                "Name": "Cosmo Flower",
+                "balance": 30,
+                "amount": 3
+              },
+    "item3": {
+                "item": 1253256456,
+                "Name": "Mango Lassi",
+                "balance": 20,
+                "amount": 2
               }
   },
   {
     "title":"Тропический туман",
     "item1": {
-                "item": 1253252383516,
+                "item": 1275134564,
                 "balance": 40,
                 "amount": 3
               },
     "item2": {
-                "item": 1253252383517,
+                "item": 1253256456,
                 "balance": 60,
                 "amount": 7
               }
