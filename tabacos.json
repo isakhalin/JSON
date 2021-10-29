@@ -56,6 +56,17 @@
     },
     {
         "id": 9645187161,
+        "originalName": "Mango Lassi",
+        "typeOfTabaco": "Табак",
+        "brand": "Dark Side",
+        "testy": "Cладкий вкус манго с небольшой кислинкой",
+        "strong": "Rare",
+        "ratestrong": 10,
+        "value": 100,
+        "img": "img/ds_mangolassi.jpg"
+    },
+    {
+        "id": 9527183178,
         "originalName": "",
         "typeOfTabaco": "Табак",
         "brand": "Dark Side",
