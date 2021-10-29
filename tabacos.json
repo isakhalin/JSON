@@ -1,24 +1,46 @@
 [
     {
-        "id": 1253252383516,
+        "id": 1253256456,
         "originalName": "Cosmo Flower",
-        "typeOfTabaco": "Tabaco",
+        "typeOfTabaco": "Табак",
         "brand": "Dark Side",
         "testy": "Ягодный микс винограда и цветов",
         "strong": "Medium",
         "ratestrong": 10,
-        "value": 80,
+        "value": 100,
         "img": "img/ds_cosmoflower.jpg"
     },
     {
-        "id": 1253252383517,
+        "id": 1253286564,
         "originalName": "Red Alert",
-        "typeOfTabaco": "Tabaco",
+        "typeOfTabaco": "Табак",
         "brand": "Dark Side",
-        "testy": "Арбуз, Дыня",
+        "testy": "Арбуз, дыня",
         "strong": "Rare",
         "ratestrong": 10,
-        "value": 80,
+        "value": 100,
         "img": "img/ds_redalert.jpg"
+    },
+    {
+        "id": 1275134564,
+        "originalName": "Code Cherry",
+        "typeOfTabaco": "Табак",
+        "brand": "Dark Side",
+        "testy": "Кисло-сладкая спелая вишня",
+        "strong": "Rare",
+        "ratestrong": 10,
+        "value": 100,
+        "img": "img/ds_redalert.jpg"
+    },
+    {
+        "id": 1765131468,
+        "originalName": "",
+        "typeOfTabaco": "Табак",
+        "brand": "Dark Side",
+        "testy": "",
+        "strong": "Rare",
+        "ratestrong": 10,
+        "value": 100,
+        "img": "img/.jpg"
     }
 ]
