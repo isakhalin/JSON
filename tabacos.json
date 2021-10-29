@@ -30,10 +30,32 @@
         "strong": "Rare",
         "ratestrong": 10,
         "value": 100,
-        "img": "img/ds_redalert.jpg"
+        "img": "img/ds_cherry.jpg"
     },
     {
         "id": 1765131468,
+        "originalName": "Cola",
+        "typeOfTabaco": "Табак",
+        "brand": "Dark Side",
+        "testy": "Кола",
+        "strong": "Rare",
+        "ratestrong": 10,
+        "value": 100,
+        "img": "img/ds_cola.jpg"
+    },
+    {
+        "id": 9875117868,
+        "originalName": "Dark Supra",
+        "typeOfTabaco": "Табак",
+        "brand": "Dark Side",
+        "testy": "Традиционный японский зеленый чай Сенча с тонкой ноткой жасмина",
+        "strong": "Rare",
+        "ratestrong": 10,
+        "value": 100,
+        "img": "img/ds_darksupra.jpg"
+    },
+    {
+        "id": 9645187161,
         "originalName": "",
         "typeOfTabaco": "Табак",
         "brand": "Dark Side",
